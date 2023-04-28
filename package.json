@@ -1,0 +1,20 @@
+{
+  "name": "ce1ling",
+  "version": "1.0.0",
+  "description": "Hi, this is L1en",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ce1ling/ce1ling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ce1ling/ce1ling/issues"
+  },
+  "homepage": "https://github.com/ce1ling/ce1ling#readme"
+}

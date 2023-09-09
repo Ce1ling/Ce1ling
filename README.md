@@ -1,3 +1,5 @@
-### Hi 👋 I'm L1en
+### Hi There! 👋 I'm L1en.
 
-A web developer.
+A developer.
+
+Programming can change anything.

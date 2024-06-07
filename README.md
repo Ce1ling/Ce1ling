@@ -1,5 +1,5 @@
-### Hi There! 👋 I'm L1en.
+## Hi There! 👋 I'm L1en.
 
 A developer.
 
-Programming can change anything.
+I believe programming can change everything.

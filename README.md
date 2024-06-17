@@ -2,4 +2,4 @@
 
 A developer.
 
-I believe programming can change everything.
+I believe programming can change anything.

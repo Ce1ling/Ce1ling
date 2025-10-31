@@ -12,8 +12,6 @@ I believe programming can change anything. 💻✨
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ce1ling&layout=compact&theme=radical&hide_border=false&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ce1ling&theme=radical&hide_border=false) 
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ce1ling&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>

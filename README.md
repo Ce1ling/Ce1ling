@@ -18,7 +18,7 @@ I believe programming can change anything. 💻✨
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ce1ling&theme=radical)
 
-<p align="center"><img alt="GitHub Trophies" width="720" src="https://trophy.ryglcloud.net/?username=ce1ling&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-C,-%3F"></p>
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=ce1ling&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-C,-%3F&column=-1)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ce1ling&theme=radical&hide_border=false)
 

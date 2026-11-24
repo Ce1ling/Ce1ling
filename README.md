@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Neil&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%C2%B7%20AI%20%C2%B7%20Web3&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ce1ling&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%C2%B7%20AI%20%C2%B7%20Web3&descAlignY=58&descSize=18&animation=fadeIn)
 
 </div>
 
-# Hi There! 👋 I'm Neil
+# Hi There! 👋 I'm Ce1ling
 
 > A Full-Stack Developer passionate about building innovative solutions with modern technologies.
 
@@ -62,6 +62,6 @@ I believe programming can change anything. 💻✨
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-Made with ❤️ by Neil
+Made with ❤️ by Ce1ling
 
 </div>

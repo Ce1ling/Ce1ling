@@ -2,15 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ce1ling&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%C2%B7%20AI%20%C2%B7%20Web3&descAlignY=58&descSize=18&animation=fadeIn)
 
-</div>
-
 # Hi There! 👋 I'm Ce1ling
 
-> A Full-Stack Developer passionate about building innovative solutions with modern technologies.
+A Full-Stack Developer passionate about building innovative solutions with modern technologies.
+<br>
+*Move with the times and embrace AI.*
 
-I believe programming can change anything. 💻✨
-
----
+</div>
 
 ## 📊 GitHub Stats
 
